@@ -1,4 +1,4 @@
-# 🌐 Pantheon Learn
+# 🌐 Pantheon Learn Quiz App
 
 **Pantheon Learn** is an interactive web platform built with **Flutter Web** that helps students master English vocabulary and multiple-choice questions through intelligent assistance and gamified learning systems.
 
